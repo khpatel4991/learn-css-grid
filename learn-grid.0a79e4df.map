@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","group","info","groupEnd"],"mappings":";AAAAA,QAAQC,MAAM,UAEdD,QAAQE,KAAK,cAEbF,QAAQG,SAAS","file":"learn-grid.0a79e4df.map","sourceRoot":"..","sourcesContent":["console.group(\"Parcel\");\n\nconsole.info(\"Learn Grid\");\n\nconsole.groupEnd(\"Parcel\");"]}
